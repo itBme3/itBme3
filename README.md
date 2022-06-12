@@ -40,4 +40,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itBme3&layout=compact&count_private=true&theme=radical)](https://github.com/itBme3/github-readme-stats)
 
 
-![Bobby Moynihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itBme3&hide=issues,stars,contribs&theme=radical&layout=compact)
+![Bobby Moynihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itBme3&hide=issues,stars,contribs&theme=radical&layout=compact&count_private=true)
