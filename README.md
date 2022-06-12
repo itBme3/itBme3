@@ -1,6 +1,8 @@
 ## Hi, 👋  I'm Bobby
 
-Portfolio 👉 [b3dev.work](https://b3dev.work)
+[b3dev.work](https://b3dev.work)
+
+☝️ Portfolio
 ## About Me:
 - Self taught programmer — trained designer
 - 12+ years experience with responsive web design (html, css)
