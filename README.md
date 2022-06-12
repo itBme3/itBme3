@@ -6,6 +6,8 @@
   <img src="https://res.cloudinary.com/bmoyni3/image/upload/v1651407478/logos/ts_ls0xok.png" style="width: 20px; height: auto; margin-right: .5rem; float: left;" />
 </div>
 
+[![Bobby Moynihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itbme3)](https://github.com/itbme3/github-readme-stats)
+
 <!--
 **itBme3/itBme3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
