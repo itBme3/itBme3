@@ -1,9 +1,9 @@
-### Hi, 👋  I'm Bobby
+## Hi, 👋  I'm Bobby
 
-### Languages:
-<div>
-  <img src="https://res.cloudinary.com/bmoyni3/image/upload/v1651407478/logos/js_uaxkkd.png" style="width: 20px; height: auto; margin-right: .5rem; float: left;" />
-  <img src="https://res.cloudinary.com/bmoyni3/image/upload/v1651407478/logos/ts_ls0xok.png" style="width: 20px; height: auto; margin-right: .5rem; float: left;" />
+#### Languages:
+<div style="width: 100%">
+  <img src="assets/Svelte_Logo.png" style="width: 20px; height: auto; margin-right: .5rem; float: left;" />
+  <img src="assets/adobe-xd.png" style="width: 20px; height: auto; margin-right: .5rem; float: left;" />
 </div>
 
 [![Bobby Moynihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itbme3)](https://github.com/itbme3/github-readme-stats)
