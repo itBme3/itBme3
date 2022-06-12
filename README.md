@@ -37,4 +37,7 @@
   <img src="assets/adobe-illustrator.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itBme3&layout=compact)](https://github.com/itBme3/github-readme-stats)
+
+
 ![Bobby Moynihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itBme3&hide=issues,stars,contribs&theme=radical&layout=compact)
