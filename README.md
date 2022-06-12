@@ -8,12 +8,16 @@
   <img src="assets/scss.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
   <img src="assets/css.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
   <img src="assets/liquid.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
+</div>
+<div style="width: 100%">
   <img src="assets/jquery.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
-  <img src="assets/nuxt.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
   <img src="assets/vue.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
-  <img src="assets/svelte.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
   <img src="assets/angular.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
+  <img src="assets/svelte.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
+  <img src="assets/nuxt.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
   <img src="assets/tailwind.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
+</div>
+<div style="width: 100%">
   <img src="assets/firebase.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
   <img src="assets/google-cloud-storage.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
   <img src="assets/shopify.png" style="width: auto; height: 20px; float: left; margin-right: .5rem; margin-bottom: .5rem"/>
