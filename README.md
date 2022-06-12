@@ -1,5 +1,5 @@
 ## Hi, 👋  I'm Bobby
-![Bobby Moynihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itBme3&hide=issues,stars&theme=merko)
+![Bobby Moynihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itBme3&hide=issues,stars&theme=radical)
 
 #### Frontend developer working with:
 
