@@ -1,6 +1,6 @@
 ## Hi, 👋  I'm Bobby
 
-###s# Frontend developer working with:
+#### Frontend developer working with:
 
 <div style="width: 100%">
   <img src="assets/ts.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
