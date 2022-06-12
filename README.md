@@ -3,7 +3,7 @@
 ### Languages:
 <div>
   <img src="https://res.cloudinary.com/bmoyni3/image/upload/v1651407478/logos/js_uaxkkd.png" style="width: 20px; height: auto; margin-right: .5rem; float: left;" />
-  <img src="https://res.cloudinary.com/bmoyni3/image/upload/v1651407478/logos/js_uaxkkd.png" style="width: 20px; height: auto; margin-right: .5rem; float: left;" />
+  <img src="https://res.cloudinary.com/bmoyni3/image/upload/v1651407478/logos/ts_ls0xok.png" style="width: 20px; height: auto; margin-right: .5rem; float: left;" />
 </div>
 
 <!--
