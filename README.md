@@ -1,6 +1,7 @@
 ## Hi, 👋  I'm Bobby
 
-<!-- #### Languages: -->
+###s# Frontend developer working with:
+
 <div style="width: 100%">
   <img src="assets/ts.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
   <img src="assets/js.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
@@ -10,10 +11,10 @@
   <img src="assets/liquid.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
 </div>
 <div style="width: 100%">
-  <img src="assets/vue.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
   <img src="assets/angular.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/svelte.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
+  <img src="assets/vue.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
   <img src="assets/nuxt.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
+  <img src="assets/svelte.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
   <img src="assets/tailwind.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
   <img src="assets/jquery.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
 </div>
