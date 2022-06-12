@@ -1,8 +1,9 @@
 ## Hi, 👋  I'm Bobby
-![Bobby Moynihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itBme3&hide=issues,stars,contribs&theme=radical&layout=compact)
-
-#### Frontend developer working with:
-
+## About Me:
+- Self taught programmer — trained designer
+- 12+ years experience with responsive web design (html, css)
+- 5+ years experience with modern JS frameworks
+## Working with:
 <div style="width: 100%">
   <img src="assets/ts.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
   <img src="assets/js.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
@@ -35,3 +36,5 @@
   <img src="assets/adobe-photoshop.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
   <img src="assets/adobe-illustrator.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
 </div>
+
+![Bobby Moynihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itBme3&hide=issues,stars,contribs&theme=radical&layout=compact)
