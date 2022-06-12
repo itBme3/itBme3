@@ -1,41 +1,46 @@
 ## Hi, 👋  I'm Bobby
+
+Portfolio 👉 [b3dev.work](https://b3dev.work)
 ## About Me:
 - Self taught programmer — trained designer
 - 12+ years experience with responsive web design (html, css)
 - 5+ years experience with modern JS frameworks
+- Forever addicted to learning — especially new/better ways of doing things.
 ## Working with:
 <div style="width: 100%">
-  <img src="assets/ts.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/js.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/html.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/scss.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/css.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/liquid.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
+  <img src="assets/ts.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/js.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/html.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/scss.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/css.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/liquid.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/angular.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/vue.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/nuxt.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/svelte.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/tailwind.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/jquery.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
 </div>
-<div style="width: 100%">
-  <img src="assets/angular.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/vue.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/nuxt.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/svelte.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/tailwind.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/jquery.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
+<div style="width: 100%; clear: both;">
+  <img src="assets/firebase.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/google-cloud-storage.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/shopify.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/wordpress.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/strapi.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/algolia.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/sendgrid.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/twilio.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
 </div>
-<div style="width: 100%">
-  <img src="assets/firebase.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/google-cloud-storage.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/shopify.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/wordpress.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/strapi.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/algolia.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/sendgrid.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/twilio.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
+<div style="width: 100%; clear: both;">
+  <img src="assets/figma.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/adobe-xd.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/adobe-photoshop.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
+  <img src="assets/adobe-illustrator.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
 </div>
-<div style="width: 100%">
-  <img src="assets/figma.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/adobe-xd.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/adobe-photoshop.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-  <img src="assets/adobe-illustrator.png" style="width: auto; height: 30px; float: left; margin-right: 2rem; margin-bottom: 2rem"/>
-</div>
+
+<div style="width: 100%; clear: both;"></div>
+
+## Some Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itBme3&layout=compact&count_private=true&theme=radical)](https://github.com/itBme3/github-readme-stats)
 
