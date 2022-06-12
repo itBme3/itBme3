@@ -2,7 +2,7 @@
 
 [b3dev.work](https://b3dev.work)
 
-☝️ Portfolio
+☝️ portfolio
 ## About Me:
 - Self taught programmer — trained designer
 - 12+ years experience with responsive web design (html, css)
