@@ -7,7 +7,7 @@
 - Self taught programmer — trained designer
 - 12+ years experience with responsive web design (html, css)
 - 5+ years experience with modern JS frameworks
-- Forever addicted to learning — especially new/better ways of doing things.
+- Forever addicted to learning — especially new/better ways of doing things
 ## Working with:
 <div style="width: 100%">
   <img src="assets/ts.png" style="width: auto; height: 30px; float: left; margin-right: 1rem; margin-bottom: 1rem"/>
